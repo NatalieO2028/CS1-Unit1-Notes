@@ -1,1 +1,16 @@
+/* we can use the "*" selector to apply a rule to all of our html elements */
+/* commented out so it doesnt apply
+*{
+    color: blue;
+}
+*/
 
+/* when selecting an element, we write the tag word as our selector */
+div{
+    color:red
+}
+
+/* when selecting a class, we using .className as our selector */
+.items {
+    color:dodgerblue
+}
