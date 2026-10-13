@@ -14,3 +14,14 @@ div{
 .items {
     color:dodgerblue
 }
+
+.alert-text {
+    color: red;
+}
+.top-alert {
+    font-weight: bold;
+}
+
+#password-tip {
+    font-style: italic;
+}
